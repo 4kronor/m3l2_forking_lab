@@ -1,3 +1,1 @@
-Ardit
-Sweden
-iOS Developing
+
